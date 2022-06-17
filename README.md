@@ -30,3 +30,7 @@ npm start
 ### Deployment
 
 Vercel
+
+```
+https://meetups-dosha10.vercel.app/
+```
